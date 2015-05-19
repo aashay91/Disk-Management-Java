@@ -1,0 +1,20 @@
+\$RECYCLE.BIN\S-1-5-21-4170630995-2519976725-584660291-1001\desktop.ini
+\a1.txt
+\a2.txt
+\Final exam\all algo.pdf
+\Final exam\ch10-greedy-disjointsets-kruskal.pptx
+\Final exam\ch11-greedy-dijkstra (1).pptx
+\Final exam\ch12-knapsack-greedy vs. dynamic programming (1).pptx
+\Final exam\ch13-backtracking (3).pptx
+\Final exam\ch14-hashing (1).ppt
+\Final exam\ch15-parallel.pdf
+\Final exam\ch16-np.pdf
+\Final exam\ch2-complexity-growth(1).pptx
+\Final exam\ch9-greedy-prim (2).pptx
+\Final exam\final-s12.pdf
+\Final exam\Homework-4.docx
+\Final exam\homework3.docx
+\Final exam\Homework5.docx
+\Final exam\hw5-s14.pdf
+\Final exam\parallel quicksort.pdf
+\Final exam\parallel sum.pdf

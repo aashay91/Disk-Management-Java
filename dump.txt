@@ -1,0 +1,40 @@
+Chai:\$RECYCLE.BIN\S-1-5-21-4170630995-2519976725-584660291-1001\desktop.ini
+Chai:\a1.txt
+Chai:\a2.txt
+Chai:\Final exam\all algo.pdf
+Chai:\Final exam\ch10-greedy-disjointsets-kruskal.pptx
+Chai:\Final exam\ch11-greedy-dijkstra (1).pptx
+Chai:\Final exam\ch12-knapsack-greedy vs. dynamic programming (1).pptx
+Chai:\Final exam\ch13-backtracking (3).pptx
+Chai:\Final exam\ch14-hashing (1).ppt
+Chai:\Final exam\ch15-parallel.pdf
+Chai:\Final exam\ch16-np.pdf
+Chai:\Final exam\ch2-complexity-growth(1).pptx
+Chai:\Final exam\ch9-greedy-prim (2).pptx
+Chai:\Final exam\final-s12.pdf
+Chai:\Final exam\Homework-4.docx
+Chai:\Final exam\homework3.docx
+Chai:\Final exam\Homework5.docx
+Chai:\Final exam\hw5-s14.pdf
+Chai:\Final exam\parallel quicksort.pdf
+Chai:\Final exam\parallel sum.pdf
+aashay:\$RECYCLE.BIN\S-1-5-21-4170630995-2519976725-584660291-1001\desktop.ini
+aashay:\a1.txt
+aashay:\a2.txt
+aashay:\Final exam\all algo.pdf
+aashay:\Final exam\ch10-greedy-disjointsets-kruskal.pptx
+aashay:\Final exam\ch11-greedy-dijkstra (1).pptx
+aashay:\Final exam\ch12-knapsack-greedy vs. dynamic programming (1).pptx
+aashay:\Final exam\ch13-backtracking (3).pptx
+aashay:\Final exam\ch14-hashing (1).ppt
+aashay:\Final exam\ch15-parallel.pdf
+aashay:\Final exam\ch16-np.pdf
+aashay:\Final exam\ch2-complexity-growth(1).pptx
+aashay:\Final exam\ch9-greedy-prim (2).pptx
+aashay:\Final exam\final-s12.pdf
+aashay:\Final exam\Homework-4.docx
+aashay:\Final exam\homework3.docx
+aashay:\Final exam\Homework5.docx
+aashay:\Final exam\hw5-s14.pdf
+aashay:\Final exam\parallel quicksort.pdf
+aashay:\Final exam\parallel sum.pdf
